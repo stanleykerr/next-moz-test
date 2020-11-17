@@ -3,7 +3,7 @@
 ## Summary
 This is a test recreation of [Firefox Monitor](https://github.com/mozilla/blurts-server) with Server-side rendering built using [Next.js](https://nextjs.org/)
 
-The test server is hosted on heroku at 
+The test server is hosted on Vercel at [monitor.skerr.co](https://monitor.skerr.co) and [next-moz-test.vercel.app](https://next-moz-test.vercel.app/)
 
 ## Development
 
